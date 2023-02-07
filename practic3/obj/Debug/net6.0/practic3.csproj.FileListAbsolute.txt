@@ -1,0 +1,15 @@
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\bin\Debug\net6.0\practic3.exe
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\bin\Debug\net6.0\practic3.deps.json
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\bin\Debug\net6.0\practic3.runtimeconfig.json
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\bin\Debug\net6.0\practic3.dll
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\bin\Debug\net6.0\practic3.pdb
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.csproj.AssemblyReference.cache
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.AssemblyInfoInputs.cache
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.AssemblyInfo.cs
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.csproj.CoreCompileInputs.cache
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.dll
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\refint\practic3.dll
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.pdb
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\practic3.genruntimeconfig.cache
+C:\Users\CRAFT_PC\Desktop\Seminar8\practic3\obj\Debug\net6.0\ref\practic3.dll
